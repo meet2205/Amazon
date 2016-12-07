@@ -1,0 +1,29 @@
+{
+    "details": {
+        "id": "3",
+        "image": "images/html3.jpg",
+        "name": "HTML Basics",
+        "author": "Valleysoft",
+        "price": "10.99",
+        "desc": "This HTML5  book covers all the new projects you need to know to build a simple website",
+        "stock": "10",
+        "rating": "4/5",
+        "paperback": "193 pages",
+        "publisher": "Apress; 1 edition (December 20, 2013)",
+        "language": "English",
+        "ISBN": "1430227908",
+        "reviews": [{
+            "name": "Mellisa",
+            "comments": "I read this book and its very good for beginers , Iliked it so much..Thanks",
+            "date": "10/16/2016"
+    }, {
+            "name": "coorg",
+            "comments": "This book is all u need to learn html!!",
+            "date": "11/22/2015"
+        }, {
+            "name": "feny",
+            "comments": "If u looking for a perfect book to learn html...then this it.!!",
+            "date": "08/15/2015"
+        }]
+    }
+}

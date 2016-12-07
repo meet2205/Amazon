@@ -1,0 +1,29 @@
+{
+    "details": {
+        "id": "2",
+        "image": "images/html5.jpg",
+        "name": "HTML5 complete Book",
+        "author": "Valleysoft",
+        "price": "10.99",
+        "desc": "This is HTML5 book contains all the tags you require to build a webpage",
+        "stock": "10",
+        "rating": "3.5/5",
+        "paperback": "304 pages",
+        "publisher": "Apress; 1st ed. edition (August 31, 2010)",
+        "language": "English",
+        "ISBN": "1430227907",
+        "reviews": [{
+            "name": "John",
+            "comments": "I read this book and its very good for beginers , Iliked it so much..Thanks",
+            "date": "10/16/2016"
+    }, {
+            "name": "Stepheny",
+            "comments": "This book is all u need to learn html!!",
+            "date": "05/22/2016"
+        }, {
+            "name": "Meet",
+            "comments": "If u looking for a perfect book to learn html...then this it.!!",
+            "date": "02/15/2016"
+        }]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "results": [{
+        "id": "13",
+        "image": "images/shoe1.jpg",
+        "name": "Nike Shoes",
+        "author": "Nike",
+        "price": "10.99",
+        "desc": " This HTML basics book covers all the tags you need to know to build a simple website",
+        "stock": "10"
+    }, {
+        "id": "14",
+        "image": "images/shoe2.jpg",
+        "name": "Adidad Shoes",
+        "author": "Adidas",
+        "price": "40.00",
+        "desc": " Adidas Performance Men's Galactic Elite M Running Shoe.",
+        "stock": "20"
+
+    }, {
+        "id": "15",
+        "image": "images/shoe3.jpg",
+        "name": "Reebook Shoes",
+        "author": "Reebok",
+        "price": "15.00",
+        "desc": " This HTML5  book covers all the new projects you need to know to build a simple website",
+        "stock": "20"
+
+    }]
+
+}

@@ -1,0 +1,29 @@
+{
+    "details": {
+        "id": "8",
+        "image": "images/angular2.jpg",
+        "name": "Advanced Angular",
+        "author": "Mr. J Smith",
+        "price": "40.00",
+        "desc": "This advanced angular book is all you need to learn angular  framework..",
+        "stock": "10",
+        "rating": "4/5",
+        "paperback": "408 pages",
+        "publisher": "Wrox; 1 edition (May 4, 2015)",
+        "language": "English",
+        "ISBN": "1118832078",
+        "reviews": [{
+            "name": "Will",
+            "comments": "I read this book and its very good for beginers , Iliked it so much..Thanks",
+            "date": "10/16/2016"
+    }, {
+            "name": "Jeorge",
+            "comments": "This book is all u need to learn html!!",
+            "date": "05/22/2016"
+        }, {
+            "name": "Brad",
+            "comments": "If u looking for a perfect book to learn html...then this it.!!",
+            "date": "02/15/2016"
+        }]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "details": {
+        "id": "6",
+        "image": "images/css3.jpg",
+        "name": "CSS and HTML technique",
+        "author": "Darent",
+        "price": "15.00",
+        "desc": "This HTML5 & CSS3  book covers all the guidance you need to know to build a simple website",
+        "stock": "20",
+        "rating": "5/5",
+        "paperback": "362 pages",
+        "publisher": "Apress; 2nd ed. edition (October 28, 2009)",
+        "language": "English",
+        "ISBN": "1430223979",
+        "reviews": [{
+            "name": "Mellisa",
+            "comments": "I read this book and its very good for beginers , Iliked it so much..Thanks",
+            "date": "10/16/2016"
+    }, {
+            "name": "Darten",
+            "comments": "This book is all u need to learn html!!",
+            "date": "05/22/2016"
+        }, {
+            "name": "Rocky",
+            "comments": "If u looking for a perfect book to learn html...then this it.!!",
+            "date": "02/15/2016"
+        }]
+    }
+}

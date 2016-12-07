@@ -1,0 +1,29 @@
+{
+    "details": {
+        "id": "13",
+        "image": "images/shoe1.jpg",
+        "name": "Nike Shoes",
+        "author": "Nike",
+        "price": "10.99",
+        "desc": "This is a basic HTML book contains all the tags you require to build a webpage",
+        "stock": "10",
+        "rating": "4.4/5",
+        "paperback": "N/A",
+        "publisher": "-",
+        "language": "N/A",
+        "ISBN": " B01D238E22",
+        "reviews": [{
+            "name": "John",
+            "comments": "I read this book and its very good for beginers , Iliked it so much..Thanks",
+            "date": "10/16/2016"
+    }, {
+            "name": "Stepheny",
+            "comments": "This book is all u need to learn html!!",
+            "date": "05/22/2016"
+        }, {
+            "name": "Meet",
+            "comments": "If u looking for a perfect book to learn html...then this it.!!",
+            "date": "02/15/2016"
+        }]
+    }
+}

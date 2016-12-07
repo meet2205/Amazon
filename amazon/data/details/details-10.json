@@ -1,0 +1,29 @@
+{
+    "details": {
+        "id": "10",
+        "image": "images/jquery2.png",
+        "name": "JQuery Basics",
+        "author": "John Kennedy",
+        "price": "22.87",
+        "desc": "This book contains detailed description about jquery language.",
+        "stock": "20",
+        "rating": "3.8/5",
+        "paperback": "272 pages",
+        "publisher": "O'Reilly Media; 1 edition (March 2, 2012)",
+        "language": "English",
+        "ISBN": "1449397654",
+        "reviews": [{
+            "name": "John",
+            "comments": "I read this book and its very good for beginers , Iliked it so much..Thanks",
+            "date": "10/16/2016"
+    }, {
+            "name": "Stepheny",
+            "comments": "This book is all u need to learn html!!",
+            "date": "05/22/2016"
+        }, {
+            "name": "Meet",
+            "comments": "If u looking for a perfect book to learn html...then this it.!!",
+            "date": "02/15/2016"
+        }]
+    }
+}

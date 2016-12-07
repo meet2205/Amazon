@@ -1,0 +1,29 @@
+{
+    "details": {
+        "id": "14",
+        "image": "images/shoe2.jpg",
+        "name": "Adidad Shoes",
+        "author": "Adidas",
+        "price": "40.00",
+        "desc": "Adidas Performance Men's Galactic Elite M Running Shoe.",
+        "stock": "20",
+        "rating": "5/5",
+        "paperback": "N/A",
+        "publisher": "-",
+        "language": "N/A",
+        "ISBN": "B01D2386232",
+        "reviews": [{
+            "name": "Peter",
+            "comments": "This is the best shoes , Iliked it so much..Thanks",
+            "date": "10/16/2016"
+    }, {
+            "name": "Jacqlin",
+            "comments": "Awwsmmm!!",
+            "date": "05/22/2016"
+        }, {
+            "name": "Dorra",
+            "comments": "Satisfied vth the product.!!",
+            "date": "02/15/2016"
+        }]
+    }
+}

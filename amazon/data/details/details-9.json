@@ -1,0 +1,29 @@
+{
+    "details": {
+        "id": "9",
+        "image": "images/jquery.jpg",
+        "name": "JQuery Basics",
+        "author": "Mr. Shroff",
+        "price": "18.99",
+        "desc": "This Jquery book covers the core level course, and provides exercises.",
+        "stock": "10",
+        "rating": "3/5",
+        "paperback": "160 pages",
+        "publisher": " O'Reilly Media; 1 edition (January 7, 2011)",
+        "language": "Eng",
+        "ISBN": "1449397220",
+        "reviews": [{
+            "name": "Obama",
+            "comments": "I read this book and its very good for beginers , Iliked it so much..Thanks",
+            "date": "10/16/2016"
+    }, {
+            "name": "Lucifer",
+            "comments": "This book is all u need to learn html!!",
+            "date": "05/22/2016"
+        }, {
+            "name": "Margot",
+            "comments": "If u looking for a perfect book to learn html...then this it.!!",
+            "date": "02/15/2016"
+        }]
+    }
+}

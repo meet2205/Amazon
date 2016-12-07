@@ -1,0 +1,29 @@
+{
+    "details": {
+        "id": "4",
+        "image": "images/css1.jpg",
+        "name": "CSS",
+        "author": "Mr.bennett",
+        "price": "9.99",
+        "desc": "This CSS basics book covers all the tags you need to know to build a simple website",
+        "stock": "10",
+        "rating": "2/5",
+        "paperback": "320 pages",
+        "publisher": "New Riders; 1 edition (December 19, 2010)",
+        "language": "English",
+        "ISBN": "0321722132",
+        "reviews": [{
+            "name": "Mr. Bellick",
+            "comments": "I read this book and its very good for beginers ,I recommend it to everyone..Thanks",
+            "date": "10/16/2016"
+    }, {
+            "name": "Sofia",
+            "comments": "This book is all u need to learn CSS!!",
+            "date": "05/22/2016"
+        }, {
+            "name": "Karan",
+            "comments": "If u looking for a perfect book to learn CSS...then this it.!!",
+            "date": "02/15/2016"
+        }]
+    }
+}

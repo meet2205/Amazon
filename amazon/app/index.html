@@ -1,0 +1,134 @@
+<html>
+
+<head>
+    <title>Amazon Shopping!!</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/dustjs-linkedin/2.7.2/dust-core.min.js"></script>
+    <script type="text/javascript" src="js/amazon.js"></script>
+    <script src="dust/searchResults.js"></script>
+    <script src="dust/productDetails.js"></script>
+
+
+    <style>
+        #footer {
+            background-color: #051428;
+            color: #ffffff;
+            text-align: center;
+        }
+        
+        #divi1 {
+            float: left;
+            width: 25%;
+        }
+        
+        #search {
+            float: left;
+            width: 75%;
+        }
+        
+        #main {
+            color: #ffffff;
+        }
+        
+        input[type=text] {
+            width: 50%;
+            border: 2px solid #ccc;
+            border-radius: 4px;
+            font-size: 16px;
+            background-color: white;
+            padding: 12px 15px 12px 40px;
+            margin-top: 10px;
+        }
+        
+        #go {
+            width: 50px;
+            height: 45px;
+            font-size: 18px;
+            background-color: #c96e0e;
+            border-radius: 4px;
+        }
+        
+        #divi5,
+        #divi10,
+        #divi15 {
+            float: left;
+        }
+        
+        #divi5 {
+            width: 15%;
+            height: 40%;
+        }
+        
+        #divi10 {
+            width: 65%;
+        }
+        
+        #divi15 {
+            width: 20%;
+            height: 130%;
+        }
+        
+        #addcart {
+            background-color: #c0e55b;
+            border-radius: 4px;
+            padding: 12px 28px;
+            text-align: center;
+            font-size: 16px;
+        }
+        
+        #bttn1 {
+            background-color: #c0e55b;
+            border-radius: 4px;
+            padding: 12px 28px;
+            text-align: center;
+            font-size: 16px;
+        }
+
+    </style>
+</head>
+
+<body style="background-color:#051428; color:white;">
+    <header>
+        <div id="header">
+            <div id="divi1">
+
+                <img src="images/logo.png" style="height:75px;width:200px">
+            </div>
+            <div id="search">
+                <input type="text" id="q" name="q" placeholder='Search...'>
+
+                <input type="button" id="go" name="go" value="go">
+
+            </div>
+        </div>
+
+
+    </header><br><br>
+    <br> <br>
+    <hr>
+    <main>
+
+
+        <div id="main">
+
+
+            <h2 style="text-align:center;">Amazon Echo</h2>
+            <img src="images/echo.jpg" style="width:100%">
+        </div>
+        <div id="details" style="display:none;">
+            <a href="#" id="backToSearch"> Back to Search Results </a>
+            <div id="productInfo">
+
+            </div>
+        </div>
+    </main>
+    <br><br>
+
+    <footer>
+        <div id="footer"> Conditions of Use Privacy Notice Interest-Based Ads© 1996-2016, Amazon.com, Inc. or its affiliates</div>
+    </footer>
+
+</body>
+
+
+</html>

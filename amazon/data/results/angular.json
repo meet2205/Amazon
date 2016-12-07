@@ -1,0 +1,21 @@
+{
+    "results": [{
+        "id": "7",
+        "image": "images/angular.jpg",
+        "name": "Angular Basics",
+        "author": "Mr. Black",
+        "price": "10.99",
+        "desc": " This Angular Basic book explains controllers Models and view in very detail",
+        "stock": "10"
+    }, {
+        "id": "8",
+        "image": "images/angular2.jpg",
+        "name": "Advanced Angular",
+        "author": "Mr. J Smith",
+        "price": "40.00",
+        "desc": " This advanced angular book is all you need to learn angular  framework..",
+        "stock": "20"
+
+    }]
+
+}

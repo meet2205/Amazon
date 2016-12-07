@@ -1,0 +1,21 @@
+{
+    "results": [{
+        "id": "11",
+        "image": "images/javascript.jpg",
+        "name": "Javascript",
+        "author": "VallySoft",
+        "price": "18.00",
+        "desc": " This Javascript  book covers all the new tags you need to know to build a simple website",
+        "stock": "10"
+    }, {
+        "id": "12",
+        "image": "images/javascript2.jpg",
+        "name": "Advance Javascript",
+        "author": "John White",
+        "price": "30.00",
+        "desc": " Advance concepts and practices of Javascript",
+        "stock": "20"
+
+    }]
+
+}

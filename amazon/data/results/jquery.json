@@ -1,0 +1,21 @@
+{
+    "results": [{
+        "id": "9",
+        "image": "images/jquery.jpg",
+        "name": "JQuery Basics",
+        "author": "Mr. Shroff",
+        "price": "18.99",
+        "desc": " This Jquery book covers the core level course, and provides exercises.",
+        "stock": "10"
+    }, {
+        "id": "10",
+        "image": "images/jquery2.png",
+        "name": "JQuery Mobile",
+        "author": "John Kennedy",
+        "price": "22.87",
+        "desc": " This book contains detailed description about jquery language.",
+        "stock": "20"
+
+    }]
+
+}

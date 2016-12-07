@@ -1,0 +1,29 @@
+{
+    "details": {
+        "id": "7",
+        "image": "images/angular.jpg",
+        "name": "Angular Basics",
+        "author": "Mr. Black",
+        "price": "10.99",
+        "desc": "This Angular Basic book explains controllers Models and view in very detail",
+        "stock": "10",
+        "rating": "3.5/5",
+        "paperback": "688 pages",
+        "publisher": "Apress; 1st ed. edition (March 26, 2014)",
+        "language": "English",
+        "ISBN": "1430264489",
+        "reviews": [{
+            "name": "John",
+            "comments": "I read this book and its very good for beginers , Iliked it so much..Thanks",
+            "date": "10/16/2016"
+    }, {
+            "name": "Stepheny",
+            "comments": "This book is all u need to learn angular!!",
+            "date": "05/22/2016"
+        }, {
+            "name": "Peter",
+            "comments": "If u looking for a perfect book to learn html...then this it.!!",
+            "date": "02/15/2016"
+        }]
+    }
+}

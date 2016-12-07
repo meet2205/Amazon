@@ -1,0 +1,29 @@
+{
+    "details": {
+        "id": "12",
+        "image": "images/javascript2.jpg",
+        "name": "Advance Javascript",
+        "author": "John White",
+        "price": "30.00",
+        "desc": "Advance concepts and practices of Javascript",
+        "stock": "20",
+        "rating": "4/5",
+        "paperback": "188 pages",
+        "publisher": "Packt Publishing; 1 edition (January 30, 2016)",
+        "language": "English",
+        "ISBN": "10162565",
+        "reviews": [{
+            "name": "Andrea",
+            "comments": "I read this book and its very good for beginers , Iliked it so much..Thanks",
+            "date": "10/16/2016"
+    }, {
+            "name": "Toochi",
+            "comments": "This book is all u need to learn html!!",
+            "date": "05/22/2016"
+        }, {
+            "name": "Amanda",
+            "comments": "If u looking for a perfect book to learn html...then this it.!!",
+            "date": "02/15/2016"
+        }]
+    }
+}

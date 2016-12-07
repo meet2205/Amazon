@@ -1,0 +1,34 @@
+{#details}
+
+<div id='product'>
+    <div id='divi5'>
+        <img src='{image}' style='height:200px; width:150px'>
+    </div>
+
+    <div id='divi10'>
+        <a class='productLink' style='color:#a07d08;' href='/productDetails?id={id}'>
+            <h1> {name}</h1></a>
+        <p><b>By: {author}</b></p>
+        <p><b>Rating: {rating}</b> | <b>Stock: {stock}</b></p>
+        <p><b>Description</b>: {desc}</p>
+        <h3 style='color:#a07d08;'>Product Details:</h3>
+        <p><b>Paperback:</b> {paperback} </p>
+        <p> <b>Publisher:</b> {publisher}</p>
+        <p><b> Language:</b> {language} </p>
+        <p><b>ISBN-10:</b>{ISBN}</p>
+        <h3 style='color:#a07d08;'>Customer Reviews:</h3> {#reviews}
+        <p>{name}</p>
+        <p>{comments}</p>
+        <p>{date}</p>
+        {/reviews}
+    </div>
+    <div id='divi15'>
+        <p style='color:#a07d08'><b>Price: ${price}</b></p>
+        <p> List Price: <strike> $35.00 </strike>. Save:50%</p>
+        <p> Want it tomorrow, Oct .20 ? Order within 3 hrs 48 mins and choose One - Day Shipping at checkout </p>FREE Shipping on orders above $25.
+        <p> Qty:<input type='tel' size='3' maxlength='2'> </p>
+        <input type='button' id='addcart' value='Add to Cart'>
+    </div>
+
+</div>
+{/details}

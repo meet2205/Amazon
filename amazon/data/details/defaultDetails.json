@@ -1,0 +1,12 @@
+{
+    "details": {
+        "id": "2",
+        "image": "images/recordnotfound.jpg",
+        "name": "Record not found - Default Details",
+        "author": "Valleysoft",
+        "price": "00.00",
+        "desc": "-",
+        "stock": "-",
+        "reviews": "no reviews"
+    }
+}

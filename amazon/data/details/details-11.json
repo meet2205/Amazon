@@ -1,0 +1,29 @@
+{
+    "details": {
+        "id": "11",
+        "image": "images/javascript.jpg",
+        "name": "Javascript",
+        "author": "Valleysoft",
+        "price": "18.00",
+        "desc": "This Javascript  book covers all the new tags you need to know to build a simple website",
+        "stock": "10",
+        "rating": "2.9/5",
+        "paperback": "640 pages",
+        "publisher": "Wiley; 1 edition (June 30, 2014)",
+        "language": "English",
+        "ISBN": "1118531647",
+        "reviews": [{
+            "name": "Hillary",
+            "comments": "I read this book and its very good for beginers , Iliked it so much..Thanks",
+            "date": "10/16/2016"
+    }, {
+            "name": "Madrid",
+            "comments": "This book is all u need to learn javascript!!",
+            "date": "05/22/2016"
+        }, {
+            "name": "Kiloik",
+            "comments": "If u looking for a perfect book to learn javascript...then this it.!!",
+            "date": "02/15/2016"
+        }]
+    }
+}
